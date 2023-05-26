@@ -29,6 +29,9 @@ website: |-
           <a href="my-service/" class="tile">
               <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/2048px-Kotlin_Icon_2021.svg.png" alt="My Service">
           </a>
+          <a href="elasticsearch/" class="tile" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/800px-Elasticsearch_logo.svg.png" alt="Elasticsearch">
+          </a>
       </div>
   </div>
   </body>
